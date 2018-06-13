@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1A3A06438F6521DB773862B0 /* libPods-MySDK1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C62251B84CA440B09DDCAD89 /* libPods-MySDK1.a */; };
 		7DFD68412CB0D2EEE004073B /* libPods-MySDK8.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C061E27C6BEA5A61F2B90A7E /* libPods-MySDK8.a */; };
 		AB49C47F20D10BEF000A5C96 /* MySDK9.m in Sources */ = {isa = PBXBuildFile; fileRef = AB49C47E20D10BEF000A5C96 /* MySDK9.m */; };
 		AB49C48020D10BEF000A5C96 /* MySDK9.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = AB49C47D20D10BEF000A5C96 /* MySDK9.h */; };
@@ -68,7 +67,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A3A06438F6521DB773862B0 /* libPods-MySDK1.a in Frameworks */,
 				7DFD68412CB0D2EEE004073B /* libPods-MySDK8.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
